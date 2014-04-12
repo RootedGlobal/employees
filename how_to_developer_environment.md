@@ -80,6 +80,12 @@ SASS is a CSS processor. It is rad, and can be used with Grunt.
 sudo gem install sass
 ```
 
+## And install a few other things while we're at it...
+
+```
+brew install gm
+```
+
 ## 6) Apache
 
 Ugh.
