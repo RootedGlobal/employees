@@ -84,6 +84,7 @@ sudo gem install sass
 
 ```
 brew install gm
+brew install imagemagick
 ```
 
 ## 6) Apache
