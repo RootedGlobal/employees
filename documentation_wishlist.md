@@ -2,4 +2,6 @@
 
 * Security and privacy policies
 * Information about project process
-* 
+* Design deliverable requirements
+* Code deliverable requirements
+ 
