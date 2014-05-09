@@ -1,4 +1,4 @@
-#Frontend testing with Selenium WebDriver, and Mocha on node.
+#Frontend testing with Selenium WebDriver, Mocha, and Chai.
 
 __Selenium__ allows us to control a web browser via node. Here we'll use
 __Selenium__ in combination with the testing framework __Mocha__ to simulate user interactions with our webapp and generate reports.
@@ -6,9 +6,14 @@ __Selenium__ in combination with the testing framework __Mocha__ to simulate use
 ##Helpful links:
 
 https://www.npmjs.org/package/selenium-webdriver
+
 https://code.google.com/p/selenium/wiki/WebDriverJs
+
 http://chromedriver.storage.googleapis.com/index.html
+
 http://visionmedia.github.io/mocha
+
+http://chaijs.com/
 
 
 ##Install
@@ -34,4 +39,6 @@ Hopefully we saw some magic browser action, and 1 passing test in our termnial.
 ##Structure tests for complex web applications.
 
 That was fun, but more than likely we'll need to more substantial tests.
-Due to the asychronous nature of both our browser, and node application
+
+Due to the asychronous nature of both the browser and node writing involved
+tests can get tricky when we have to wait for dom updates, and ajax calls and the like.
