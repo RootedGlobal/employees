@@ -83,7 +83,7 @@ sudo gem install sass
 ## And install a few other things while we're at it...
 
 ```
-brew install gm
+brew install graphicsmagick
 brew install imagemagick
 ```
 
