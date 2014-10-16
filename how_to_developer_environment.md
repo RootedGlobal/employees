@@ -22,7 +22,7 @@ http://brew.sh/
 Open up a terminal, and paste this:
 
 ```
-ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
 During this process, it may ask you to install some XCode tools. The answer is yes. Install them.
