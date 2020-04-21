@@ -12,7 +12,7 @@ httplib2==0.8
 ipython==1.1.0
 jira-python==0.13
 oauthlib==0.6.0
-paramiko==1.12.1
+paramiko==2.0.9
 py==1.4.15
 py.saunter==0.63
 pycrypto==2.6.1
