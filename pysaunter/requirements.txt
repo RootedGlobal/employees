@@ -8,7 +8,7 @@ browsermob-proxy==0.5.0
 docutils==0.11
 ecdsa==0.10
 execnet==1.1
-httplib2==0.8
+httplib2==0.18.0
 ipython==1.1.0
 jira-python==0.13
 oauthlib==0.6.0
