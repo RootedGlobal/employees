@@ -2,7 +2,7 @@ Fabric==1.8.1
 HARPy==0.2.0
 Jinja2==2.7.2
 MarkupSafe==0.21
-Pygments==1.6
+Pygments==2.7.4
 Sphinx==1.2.2
 browsermob-proxy==0.5.0
 docutils==0.11
