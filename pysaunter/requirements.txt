@@ -13,7 +13,7 @@ ipython==1.1.0
 jira-python==0.13
 oauthlib==0.6.0
 paramiko==1.12.1
-py==1.4.15
+py==1.10.0
 py.saunter==0.63
 pycrypto==2.6.1
 pytest==2.3.5
